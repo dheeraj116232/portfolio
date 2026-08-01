@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480" fill="none">
+  <rect width="800" height="480" fill="#101522"/>
+  <rect x="160" y="90" width="480" height="280" rx="16" fill="#050816" stroke="#8B5CF6" stroke-opacity="0.4"/>
+  <rect x="200" y="130" width="200" height="16" rx="8" fill="#FFFFFF" fill-opacity="0.8"/>
+  <rect x="200" y="170" width="400" height="10" rx="5" fill="#9CA3AF" fill-opacity="0.35"/>
+  <rect x="200" y="195" width="380" height="10" rx="5" fill="#9CA3AF" fill-opacity="0.25"/>
+  <rect x="200" y="220" width="360" height="10" rx="5" fill="#9CA3AF" fill-opacity="0.2"/>
+  <rect x="200" y="270" width="120" height="50" rx="10" fill="#00E5FF" fill-opacity="0.25" stroke="#00E5FF"/>
+  <text x="60" y="420" font-family="Syne, Arial" font-size="28" font-weight="700" fill="#FFFFFF">AI Blog Agent</text>
+</svg>
