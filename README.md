@@ -2,7 +2,7 @@
 
 A cinematic, dark-themed personal portfolio showcasing AI engineering and full-stack development work. Built with React 19, TypeScript, and React Three Fiber, featuring a 3D hero scene, smooth scroll, and a fully responsive, animated UI.
 
-**Live Demo:** [Add your deployed URL here]
+**Live Demo:** https://dheerajcodes-nine.vercel.app/
 
 ---
 
@@ -99,9 +99,6 @@ src/
 | Theme tokens & colors | `src/styles/globals.css` |
 | Resume | Replace `public/Dheeraj_Kumar_Resume.pdf` |
 
-## Roadmap
-
-See [`TODO.md`](./TODO.md) for planned improvements and known issues.
 
 ## License
 
@@ -109,7 +106,8 @@ This is a personal portfolio project. All content, including copy, project descr
 
 ## Contact
 
-- **Portfolio:** [Add your deployed URL]
-- **LinkedIn:** [Add your LinkedIn]
+- **Portfolio:** https://dheerajcodes-nine.vercel.app/
+- **LinkedIn:** https://www.linkedin.com/in/dheerajkumar116232/
 - **GitHub:** [github.com/dheeraj116232](https://github.com/dheeraj116232)
-- **Email:** [Add your email]
+- **Email:** dheerajl116232@gmail.com
+- 
