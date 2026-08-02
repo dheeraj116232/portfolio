@@ -10,7 +10,7 @@ export const PERSONAL = {
     'Data Scientist',
     'Full Stack AI Developer',
   ] as const,
-email: 'dheerajkumarl116232@gmail.com',
+email: 'dheerajl116232@gmail.com',
   phone: '+91 62998 48516',
   phoneHref: 'tel:+916299848516',
   location: 'Tiruchirappalli, India',
@@ -80,6 +80,6 @@ export const SOCIAL_LINKS = [
   {
     id: 'email',
     label: 'Email',
-    href: 'mailto:dheerajkumarl116232@gmail.com',
+    href: 'mailto:dheerajl116232@gmail.com',
   },
 ] as const
