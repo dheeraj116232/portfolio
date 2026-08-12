@@ -18,6 +18,39 @@ export interface Project {
 
 export const PROJECTS: Project[] = [
   {
+    id: 'ai-codebase-knowledge',
+    title: 'AI Codebase Knowledge Platform',
+    shortDescription:
+      'AI codebase intelligence with semantic search, repository Q&A, AST analysis, docs, PR reviews, and architecture maps.',
+    description:
+      'AI-powered codebase intelligence platform that enables semantic code search, repository Q&A, AST analysis, dependency graphs, automated documentation, PR reviews, and architecture visualization using RAG, LangGraph, and Groq.',
+    image: '/projects/ai-codebase.svg',
+    gradient: 'from-emerald-500/25 via-cyan-500/15 to-violet-500/10',
+    tech: ['RAG', 'LangGraph', 'Groq', 'AST Analysis', 'Vector Search', 'Next.js', 'Vercel'],
+    features: [
+      'Semantic code search across repositories',
+      'Repository Q&A grounded in retrieved code context',
+      'AST analysis with dependency graph mapping',
+      'Automated documentation and PR review workflows',
+      'Architecture visualization for faster system understanding',
+    ],
+    architecture:
+      'Repository URL/import -> ingestion and AST parser -> code chunking, embeddings, and dependency graph -> LangGraph RAG workflow -> Groq-powered answers, docs, PR review feedback, and architecture visualizations in the web UI.',
+    challenges: [
+      'Combining semantic retrieval with structural AST signals',
+      'Grounding codebase answers to reduce hallucinated implementation details',
+      'Keeping generated docs and architecture views aligned with repository changes',
+    ],
+    learnings: [
+      'Designing RAG systems for source-code understanding',
+      'Orchestrating code intelligence workflows with LangGraph',
+      'Using graph context to make AI developer tools more explainable',
+    ],
+    github: 'https://github.com/dheeraj116232/ai-codebase-knowledge-platform',
+    demo: 'https://ai-codebase-knowledge-platform.vercel.app/',
+    featured: true,
+  },
+  {
     id: 'bi-platform',
     title: 'AI Business Intelligence Platform',
     shortDescription:
@@ -147,38 +180,6 @@ export const PROJECTS: Project[] = [
     ],
     github: 'https://github.com/dheeraj116232/portfolio',
     demo: '#home',
-  },
-  {
-    id: 'ai-codebase-knowledge',
-    title: 'AI Codebase Knowledge Platform',
-    shortDescription:
-      'AI codebase intelligence with semantic search, repository Q&A, AST analysis, docs, PR reviews, and architecture maps.',
-    description:
-      'AI-powered codebase intelligence platform that enables semantic code search, repository Q&A, AST analysis, dependency graphs, automated documentation, PR reviews, and architecture visualization using RAG, LangGraph, and Groq.',
-    image: '/projects/ai-codebase.svg',
-    gradient: 'from-emerald-500/25 via-cyan-500/15 to-violet-500/10',
-    tech: ['RAG', 'LangGraph', 'Groq', 'AST Analysis', 'Vector Search', 'Next.js', 'Vercel'],
-    features: [
-      'Semantic code search across repositories',
-      'Repository Q&A grounded in retrieved code context',
-      'AST analysis with dependency graph mapping',
-      'Automated documentation and PR review workflows',
-      'Architecture visualization for faster system understanding',
-    ],
-    architecture:
-      'Repository URL/import -> ingestion and AST parser -> code chunking, embeddings, and dependency graph -> LangGraph RAG workflow -> Groq-powered answers, docs, PR review feedback, and architecture visualizations in the web UI.',
-    challenges: [
-      'Combining semantic retrieval with structural AST signals',
-      'Grounding codebase answers to reduce hallucinated implementation details',
-      'Keeping generated docs and architecture views aligned with repository changes',
-    ],
-    learnings: [
-      'Designing RAG systems for source-code understanding',
-      'Orchestrating code intelligence workflows with LangGraph',
-      'Using graph context to make AI developer tools more explainable',
-    ],
-    github: 'https://github.com/dheeraj116232/ai-codebase-knowledge-platform',
-    demo: 'https://ai-codebase-knowledge-platform.vercel.app/',
   },
   {
     id: 'rag-chatbot',
