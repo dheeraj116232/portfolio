@@ -12,7 +12,7 @@ This portfolio presents my background as an AI Engineer and Full-Stack Developer
 
 - **About** — Background, focus areas, and engineering philosophy
 - **Skills** — Programming, AI/ML, Frontend, Backend, and Tools, with proficiency indicators
-- **Projects** — Featured builds including an AI Business Intelligence Platform, Multi-Agent Travel AI, AI Blog Agent System, this 3D portfolio site, a customer segmentation model, and a RAG chatbot
+- **Projects** — Featured builds including an AI Business Intelligence Platform, Multi-Agent Travel AI, AI Blog Agent System, this 3D portfolio site, an AI Codebase Knowledge Platform, and a RAG chatbot
 - **Experience** — Internship history at NIT Tiruchirappalli in full-stack development and data science
 - **Education** — B.Tech in Civil Engineering (Minor: Computer Science), NIT Tiruchirappalli
 - **Achievements** — Scholarships, hackathons, olympiads, and certifications (Oracle AI, Generative AI, Machine Learning)

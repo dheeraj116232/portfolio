@@ -32,7 +32,7 @@ email: 'dheerajl116232@gmail.com',
     'Full Stack Development',
   ],
   stats: [
-    { label: 'Projects Completed', value: 14, suffix: '+' },
+    { label: 'Projects Completed', value: 18, suffix: '+' },
     { label: 'Hackathons', value: 3, suffix: '+' },
     { label: 'Research / Internships', value: 3, suffix: '' },
     { label: 'Certifications', value: 6, suffix: '+' },
