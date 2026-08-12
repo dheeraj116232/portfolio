@@ -25,11 +25,9 @@ email: 'dheerajl116232@gmail.com',
   focusAreas: [
     'Machine Learning',
     'Deep Learning',
-    'Computer Vision',
-    'NLP',
     'LLM Applications',
-    'Data Analytics',
-    'Full Stack Development',
+    'Data Analytics, Data Science',
+    'Full Stack Development, AI Full Stack Development',
   ],
   stats: [
     { label: 'Projects Completed', value: 18, suffix: '+' },
